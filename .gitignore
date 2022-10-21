@@ -1,0 +1,8 @@
+/*.gcno
+
+### Xcode Project ###
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings/xcsettings
