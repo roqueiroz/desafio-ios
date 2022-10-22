@@ -1,6 +1,8 @@
 /*.gcno
 
 ### Xcode Project ###
+.DS_Store
+*.xcuserstate
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
 !*.xcodeproj/xcshareddata/

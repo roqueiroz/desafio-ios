@@ -29,8 +29,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         safeWindow.makeKeyAndVisible()
         safeWindow.backgroundColor = UIColor(named: "mainColor")
         
-        
-        
         window = safeWindow
     }
 

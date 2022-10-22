@@ -82,9 +82,7 @@ class MainView: UIView {
             btn.centerXAnchor.constraint(equalTo: lblTitle.centerXAnchor),
             btn.topAnchor.constraint(equalTo: bottomAnchor, constant: -100),
             btn.heightAnchor.constraint(equalToConstant: 62),
-            btn.leftAnchor.constraint(equalTo: leftAnchor, constant: 20),
-            btn.rightAnchor.constraint(equalTo: rightAnchor, constant: -20)
-            
+            btn.leadingAnchor.constraint(equalTo: self.leadingAnchor, constant: 15)
         ]
         
         constraints.forEach { (constraint) in
