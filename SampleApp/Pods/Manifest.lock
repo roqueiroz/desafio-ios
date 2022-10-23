@@ -1,0 +1,16 @@
+PODS:
+  - Desafio-iOS-Lib (0.0.1)
+
+DEPENDENCIES:
+  - Desafio-iOS-Lib (from `/Users/rodrigo.goncalves/Documents/Projetos/Testes/desafio-ios-lib/desafio-ios-lib`)
+
+EXTERNAL SOURCES:
+  Desafio-iOS-Lib:
+    :path: "/Users/rodrigo.goncalves/Documents/Projetos/Testes/desafio-ios-lib/desafio-ios-lib"
+
+SPEC CHECKSUMS:
+  Desafio-iOS-Lib: c5a3646ae2b7851070a21fb0bf3b1c0144c5142f
+
+PODFILE CHECKSUM: 70f71c3bd839dd5138923cfbf572d93060f9bffa
+
+COCOAPODS: 1.11.3

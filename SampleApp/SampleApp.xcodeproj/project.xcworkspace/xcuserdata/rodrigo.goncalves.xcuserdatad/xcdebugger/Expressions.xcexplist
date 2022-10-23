@@ -3,10 +3,37 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "ApiRequestMaker.request(method:data:completion:):ApiRequestMaker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "closure #1 in MainViewController.getInfoPlatform():MainViewController.swift">
          <PersistentStrings>
             <PersistentString
                value = "String(UnicodeScalar(UInt8(value)))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in ApiRequestMaker.request(method:data:completion:):ApiRequestMaker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "httpResponse.statusCode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewModel.getTicket():MainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ticket">
+            </PersistentString>
+            <PersistentString
+               value = "isSuccess">
             </PersistentString>
          </PersistentStrings>
       </ContextState>

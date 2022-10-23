@@ -1,0 +1,22 @@
+{
+  "name": "Desafio-iOS-Lib",
+  "version": "0.0.1",
+  "summary": "A short description of Desafio-iOS-Lib.",
+  "description": "Pod para gerar Ticket",
+  "homepage": "https://github.com/roqueiroz/desafio-ios-lib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "r queiroz": "rqueiroz.dev@gmail.com"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/roqueiroz/desafio-ios-lib.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Desafio-iOS-Lib/**/*.{h,m,swift}"
+}

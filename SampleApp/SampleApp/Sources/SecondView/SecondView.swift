@@ -18,6 +18,7 @@ class SecondView: UIView {
         label.text = "Segunda View"
         return label
     }()
+    
     convenience init() {
         self.init(frame: CGRect.zero)
         
